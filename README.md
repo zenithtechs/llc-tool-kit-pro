@@ -115,7 +115,7 @@ These mini tools make the website feel like a **digital dashboard** for early-st
 
 ### 6. 🏛️ Learning Center
 
-The [**Learning Center**](https://llctoolkitpro.com/learning-center) is where the platform truly shines.
+The [**Learning Center**](https://llctoolkitpro.com/guide) is where the platform truly shines.
 
 It’s packed with long-form articles explaining key business formation topics like:
 
